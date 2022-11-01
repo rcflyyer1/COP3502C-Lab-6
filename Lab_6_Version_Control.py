@@ -8,5 +8,7 @@ a = int(a)
 b = int(b)
 
 c = a + b
+d = a - b
 
 print(f"Addition: {c}")
+print(f"Subtraction : {d}")
